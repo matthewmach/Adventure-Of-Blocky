@@ -1,7 +1,7 @@
 # Adventure-Of-Blocky
 Grade 11 Computer Science (ISC3U3) Final Project
 
-To run, open MainGame.java and run with [Ready to Program](http://compsci.ca/holtsoft/). The .exe is included in the repository.
+To run, open MainGame.java in folder Game and run with [Ready to Program](http://compsci.ca/holtsoft/). The .exe is included in the repository.
 
 ## Description
 This program uses a modified hsa Console, a Java library for teaching Java. Console is ovewritten so that I can access its fields and add/modify draw commands. The enviroment is drawn completely using draw commands instead of images due to limitations. 
