@@ -1,4 +1,4 @@
-# Adventure-Of-Blocky
+# Adventure Of Blocky
 Grade 11 Computer Science (ISC3U3) Final Project
 
 To run, open MainGame.java in folder Game and run with [Ready to Program](http://compsci.ca/holtsoft/). The .exe is included in the repository.
